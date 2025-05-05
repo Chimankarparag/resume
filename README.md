@@ -23,7 +23,8 @@ You can find more about me and my work on:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chimankarparag/)
 - 🌐 [Portfolio Website](https://your-website.com) 
-- 📫 [Email](mailto:chimankarparag@gmail.com)
+- 📫 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=chimankarparag@gmail.com)
+
 
 ---
 
@@ -53,7 +54,7 @@ Feel free to reach out if you're interested in collaborating, offering an opport
   <a href="https://www.linkedin.com/in/chimankarparag/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chimankarparag@email.com">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=chimankarparag@gmail.com" target="_blank" style="color: #103cc0;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
