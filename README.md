@@ -42,7 +42,7 @@ You can find more about me and my work on:
 
 You can preview or download the latest version of my resume here:
 
-> 📄 [**Click to view `resume_Parag_Apr2025.pdf`**](./resume_ParagChimankar_IITKGP.pdf)
+> 📄 [**Click to view `Resume.pdf`**](./ParagChimankar_IITKGP.pdf)
 
 ---
 
