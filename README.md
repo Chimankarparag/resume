@@ -22,7 +22,7 @@ I'm a passionate Computer Science with experience in:
 You can find more about me and my work on:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chimankarparag/)
-- 🌐 [Portfolio Website](https://your-website.com) 
+- 🌐 [Portfolio Website](https://chimankarparag.github.io/3D_Portfolio_website1/) 
 - 📫 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=chimankarparag@gmail.com)
 
 
@@ -42,7 +42,7 @@ You can find more about me and my work on:
 
 You can preview or download the latest version of my resume here:
 
-> 📄 [**Click to view `resume_Parag_Apr2025.pdf`**](./resume_Parag_Apr2025.pdf)
+> 📄 [**Click to view `resume_Parag_Apr2025.pdf`**](./resume_ParagChimankar_IITKGP.pdf)
 
 ---
 
